@@ -3,9 +3,9 @@
 
 ## SELF-BOTZ
 ## yah gua ga punya api
-</div>
-
-<p align="center">
+</ div >
+saya
+< p  align = "tengah" >
   <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-yogipw-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
